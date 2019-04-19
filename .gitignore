@@ -1,0 +1,6 @@
+.idea/
+example/ssh-key.pub
+.terraform
+.plan
+terraform.tfstate
+terraform.tfstate.backup
